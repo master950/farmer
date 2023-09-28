@@ -1,0 +1,290 @@
+{
+  "ver": "1.0.6",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041",
+  "files": [
+    ".plist",
+    ".json"
+  ],
+  "subMetas": {
+    "5138e": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@5138e",
+      "displayName": "",
+      "id": "5138e",
+      "name": "Tilled Dirt_1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 48,
+        "height": 32,
+        "rawWidth": 48,
+        "rawHeight": 32,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7c7f1": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@7c7f1",
+      "displayName": "",
+      "id": "7c7f1",
+      "name": "Tilled Dirt_2",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 25,
+        "trimY": 35,
+        "width": 14,
+        "height": 14,
+        "rawWidth": 14,
+        "rawHeight": 14,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c857b": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@c857b",
+      "displayName": "",
+      "id": "c857b",
+      "name": "Tilled Dirt_3",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 25,
+        "trimY": 51,
+        "width": 14,
+        "height": 14,
+        "rawWidth": 14,
+        "rawHeight": 14,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "518cd": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@518cd",
+      "displayName": "",
+      "id": "518cd",
+      "name": "Tilled Dirt_4",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 41,
+        "trimY": 35,
+        "width": 14,
+        "height": 14,
+        "rawWidth": 14,
+        "rawHeight": 14,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1194": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@f1194",
+      "displayName": "",
+      "id": "f1194",
+      "name": "Tilled Dirt_5",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 41,
+        "trimY": 51,
+        "width": 14,
+        "height": 14,
+        "rawWidth": 14,
+        "rawHeight": 14,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e7c9": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@0e7c9",
+      "displayName": "",
+      "id": "0e7c9",
+      "name": "Tilled Dirt_6",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 51,
+        "trimY": 1,
+        "width": 8,
+        "height": 8,
+        "rawWidth": 8,
+        "rawHeight": 8,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee40": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@0ee40",
+      "displayName": "",
+      "id": "0ee40",
+      "name": "Tilled Dirt_7",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 13,
+        "trimY": 35,
+        "width": 26,
+        "height": 10,
+        "rawWidth": 26,
+        "rawHeight": 10,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "17e8d": {
+      "importer": "sprite-frame",
+      "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041@17e8d",
+      "displayName": "",
+      "id": "17e8d",
+      "name": "Tilled Dirt_8",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 35,
+        "width": 10,
+        "height": 26,
+        "rawWidth": 10,
+        "rawHeight": 26,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a",
+        "atlasUuid": "56e4cb03-7e32-41e7-a766-41fc01f28041"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "floor.png",
+    "format": 3,
+    "uuid": "56e4cb03-7e32-41e7-a766-41fc01f28041",
+    "textureUuid": "512e1af6-c70e-468d-b0a8-645ab96cf922@6c48a"
+  }
+}

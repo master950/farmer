@@ -1,0 +1,120 @@
+{
+  "ver": "1.0.6",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4",
+  "files": [
+    ".plist",
+    ".json"
+  ],
+  "subMetas": {
+    "06d44": {
+      "importer": "sprite-frame",
+      "uuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4@06d44",
+      "displayName": "",
+      "id": "06d44",
+      "name": "walk_left0",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 10,
+        "height": 16,
+        "rawWidth": 10,
+        "rawHeight": 16,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7e3fd346-892a-4be6-8aa7-df32864e3624@6c48a",
+        "atlasUuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3ac80": {
+      "importer": "sprite-frame",
+      "uuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4@3ac80",
+      "displayName": "",
+      "id": "3ac80",
+      "name": "walk_left1",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 19,
+        "width": 10,
+        "height": 16,
+        "rawWidth": 10,
+        "rawHeight": 16,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7e3fd346-892a-4be6-8aa7-df32864e3624@6c48a",
+        "atlasUuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6fa0e": {
+      "importer": "sprite-frame",
+      "uuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4@6fa0e",
+      "displayName": "",
+      "id": "6fa0e",
+      "name": "walk_left2",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 10,
+        "height": 16,
+        "rawWidth": 10,
+        "rawHeight": 16,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7e3fd346-892a-4be6-8aa7-df32864e3624@6c48a",
+        "atlasUuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4"
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "left.png",
+    "format": 3,
+    "uuid": "7b7f18f6-97fa-4c2e-8f7a-5e52b4f09af4",
+    "textureUuid": "7e3fd346-892a-4be6-8aa7-df32864e3624@6c48a"
+  }
+}
